@@ -1,11 +1,11 @@
-Discord Custom Status bot 24/7. Can be deployed on Render.
+# Discord Custom Status bot 24/7. Can be deployed on Render.
 
-Getting token:
+# Getting token:
 1. Open Discord on Browser, F12 or ctrl+shift+i. Go to Network tab. 
 2. Click on some server or chat. Find 'Science' on the Network.
 3. Find Authorzation. This is your `token`
 
-Render side:
+# Render side:
 - Installation command: `pip install -r requirements.txt`
 - Run command: `python main.py`
 - Environment variables:
